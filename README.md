@@ -7,7 +7,7 @@
 This is one of the many projects available on codedamn to reinforce your learning by building. If you want to become a frontend developer and learn by practicing, feel free to attempt this challenge. Feel free to check out the codedamn frontend web developer learning path to learn more about how to become an awesome frontend developer.
 
 ## Instructions
-Your challenge is to build out this project and get it looking as close to the design as possible.
+Your challenge is to build out this project and get it looking as close to the design and functionalities as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
