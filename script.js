@@ -1,5 +1,11 @@
-const timer = document.querySelector('#time span')
+"use strict"
+// Start writing code from here
+// Declare all the global variables
 
-setInterval(() => {
-	timer.innerText = new Date().toLocaleString()
-}, 1000)
+
+// You should define the callback function for the RESET button here.
+
+// You should define the callback function for the SWAP button here.
+
+
+// You should define the callback function for the CALCULATE button here.
