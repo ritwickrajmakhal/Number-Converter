@@ -1,3 +1,3 @@
-tabs: ['index.html', 'script.js', 'style.css', number_system_module.js]
+tabs: ['index.html', 'script.js', 'style.css', 'number_system_module.js']
 terminal-one: static-server -p 1337 --no-cache
 live-reload-browser: true
